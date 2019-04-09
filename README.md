@@ -1,2 +1,2 @@
 # MyFinance
-Simple Android APP for record yout spending money
+Simple Android APP for record your spending money
