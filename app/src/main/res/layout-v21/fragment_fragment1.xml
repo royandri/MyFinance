@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.royandri.myfinance.Fragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimaryDark"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:textColor="@color/white"
+            android:paddingStart="10sp"
+            android:layout_gravity="bottom"
+            android:textSize="20sp"
+            android:paddingEnd="0sp"
+            android:background="@color/colorPrimaryDark"
+            android:text="Saldo Bulan Ini" />
+
+    </LinearLayout>
+
+
+</FrameLayout>
