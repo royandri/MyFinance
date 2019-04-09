@@ -1,0 +1,4 @@
+#Tue Nov 21 14:44:49 ICT 2017
+base.0=E\:\\Document\\Programku\\Android\\Myfinance\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\86
+renamed.0=classes.dex
+file.0=E\:\\Document\\Programku\\Android\\Myfinance\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\86\\classes.dex
